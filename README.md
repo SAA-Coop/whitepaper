@@ -1,2 +1,2 @@
 # SAA-Coop
-Sequential Accumulation Artisan Coop
+Sequential Accumulation Artisan Cooperative II
