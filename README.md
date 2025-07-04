@@ -103,6 +103,18 @@ Open membership tier for those who wish to:
 - Participate in guild quests and projects
 - Contribute to the cooperative's mission
 
+**The Party as a Living Cell:**
+
+Each party within SAA-Coop functions like a biological cell—a complete, self-sufficient unit capable of thriving independently while contributing to the larger organism. Just as a cell contains all the necessary components for life (nucleus, mitochondria, ribosomes), a party must contain all the essential roles needed to drive a mission to success:
+
+- **Core Functions**: Developers, designers, strategists—like organelles, each with specialized functions
+- **Semi-Permeable Boundaries**: Parties maintain their identity while exchanging resources and information with other parties
+- **Self-Organization**: Like cellular processes, parties organize themselves based on the mission's needs
+- **Reproduction**: Successful parties can divide and spawn new parties, spreading effective patterns
+- **Autophagy**: Parties that complete their mission or become ineffective naturally dissolve, recycling their members into new formations
+
+This cellular model ensures resilience—if one party fails, the guild survives. If one party succeeds spectacularly, its patterns can be replicated throughout the organism.
+
 **Current Teams:**
 - **Team Zero** - Leader: N2 (Nutchanon Ninyawee)
 
