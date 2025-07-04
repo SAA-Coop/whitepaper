@@ -108,10 +108,24 @@ Open membership tier for those who wish to:
 
 
 ## Terms
-### **SAA**: Sequential Accumulation Artisan
+### **SAA**: Sequential Accumulation Artisan (ช่างศักยลำดับ)
 
 > "Code is an executable thought, with the right maintenance it also becomes perpetually executable." 
 > -- N2
+
+The Thai term **ช่างศักยลำดับ** (Chang Sakya Lamdap) captures the essence of SAA more accurately than its English translation. We deliberately chose "Artisan" over terms like "Architect" or "Engineer" for profound reasons:
+
+- **Architect** implies someone who designs but doesn't build, creating distance between conception and implementation
+- **Engineer** suggests mechanical application of principles without soul or personal investment
+- **Artisan (ช่าง)** embodies the unity of designer, builder, and maintainer—one who intimately knows their craft through direct experience
+
+In Thai culture, a ช่าง (chang) is someone who:
+- Works with their hands and mind as one
+- Takes responsibility for the entire process from idea to completion
+- Understands every detail and caveat through direct experience
+- Cannot separate themselves from their work—their spirit is embedded in what they create
+
+This holistic approach means that when translating ideas into final value, nothing is abstracted away or delegated. Every detail, every edge case, every subtle implication is held in the artisan's consciousness. There is no room for "that's not my problem" or "that's someone else's job"—the artisan owns the entire journey.
 
 #### The Philosophy of Code as Potential Energy
 
