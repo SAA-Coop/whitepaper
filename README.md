@@ -27,7 +27,7 @@ A group of selected person which low enough क्लेश-Defilements-[กิ�
 ### L1 - Leaders of Party & Members of Party
 Open to anyone who wants to lead form a party and work for guild quests.
 
-Zero - N2 aka Nutchanon Ninyawee
+Team Zero - Leader is N2 aka Nutchanon Ninyawee
 
 
 ## Terms
