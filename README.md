@@ -176,7 +176,7 @@ Our innovation: **Karma-Weighted Voting**. Unlike simple democracy where every v
 
 ### Beyond Single Currency: The Cancer of Currency
 
-Drawing from Joi Ito's "Resisting Reduction" manifesto, we recognize how single-currency thinking creates "cancerous" growth patterns in modern economies. When everything is reduced to monetary value, organizations optimize for financial growth at the expense of all other values—much like cancer cells that grow without regard for the organism's health.
+Drawing from Joichi Ito's "Resisting Reduction" manifesto, we recognize how single-currency thinking creates "cancerous" growth patterns in modern economies. When everything is reduced to monetary value, organizations optimize for financial growth at the expense of all other values—much like cancer cells that grow without regard for the organism's health.
 
 The problem with single-currency systems:
 
@@ -279,8 +279,8 @@ This ensures the system remains responsive to member needs and changing circumst
 ### Written Resources
 
 
-**Joi Ito:**
-- [Resisting Reduction: A Manifesto](https://jods.mitpress.mit.edu/pub/resisting-reduction) - The source of "The Cancer of Currency" concept
+**Joichi Ito:**
+- [Resisting Reduction: A Manifesto - Designing our Complex Future with Machines](https://jods.mitpress.mit.edu/pub/resisting-reduction) - The source of "The Cancer of Currency" concept
 
 ### Additional Reading
 
