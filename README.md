@@ -159,7 +159,7 @@ This holistic approach means that when translating ideas into final value, nothi
 SAA is not limited to software coding—it encompasses all forms of systematic creation where ideas accumulate into tangible value:
 
 **Digital Artisans:**
-- **UX/UI Designers**: Accumulating user insights into intuitive interfaces
+- **UX/UI Designers**: Crafting interfaces from deep personal understanding—we are users ourselves
 - **Software Engineers**: 
   - System Architects: Designing scalable structures
   - Frontend Engineers: Crafting user experiences
