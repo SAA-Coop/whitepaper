@@ -154,6 +154,46 @@ In Thai culture, a ช่าง (chang) is someone who:
 
 This holistic approach means that when translating ideas into final value, nothing is abstracted away or delegated. Every detail, every edge case, every subtle implication is held in the artisan's consciousness. There is no room for "that's not my problem" or "that's someone else's job"—the artisan owns the entire journey.
 
+**Sequential Accumulation Across Disciplines:**
+
+SAA is not limited to software coding—it encompasses all forms of systematic creation where ideas accumulate into tangible value:
+
+**Digital Artisans:**
+- **UX/UI Designers**: Accumulating user insights into intuitive interfaces
+- **Software Engineers**: 
+  - System Architects: Designing scalable structures
+  - Frontend Engineers: Crafting user experiences
+  - Backend Engineers: Building robust foundations
+  - Edge & Embedded Engineers: Optimizing for constraints
+  - DevOps Engineers: Automating operational excellence
+  - QA Engineers: Ensuring quality through systematic testing
+- **Security Professionals**:
+  - Security Engineers: Building defensive systems
+  - Penetration Testers: Finding vulnerabilities before adversaries do
+  - Security Architects: Designing trust into every layer
+  - Incident Response Specialists: Learning from breaches to strengthen defenses
+  - Cryptography Engineers: Implementing mathematical guarantees of privacy
+- **Risk & Resilience Specialists**:
+  - Risk Analysts: Accumulating threat intelligence into actionable insights
+  - Threat Modelers: Mapping attack surfaces and potential exploits
+  - Business Continuity Planners: Designing redundancy into critical systems
+  - Disaster Recovery Engineers: Building failover and backup strategies
+  - Compliance Officers: Translating regulations into operational practices
+  - Chaos Engineers: Intentionally breaking systems to build antifragility
+
+**Physical World Artisans:**
+- **Robotics Engineers**:
+  - Mechanical Engineers: Translating movement into reality
+  - Electrical Engineers: Powering intelligent systems
+  - Control Systems Engineers: Programming physical behavior
+  - Safety Engineers: Implementing fail-safes and emergency stops
+  - Reliability Engineers: Ensuring consistent performance under stress
+  - Systems Integration Engineers: Orchestrating complex subsystems
+- **Hardware Designers**: Creating the substrates for computation
+- **Manufacturing Specialists**: Scaling artisanal quality to production
+
+Each discipline practices sequential accumulation—whether accumulating user feedback into design patterns, accumulating code into systems, or accumulating mechanical iterations into working robots. The principles remain constant: careful attention to detail, ownership of the complete process, and the embedding of intention into every layer of work.
+
 #### The Philosophy of Code as Potential Energy
 
 From a software engineer's perspective, code represents potential energy. Like a coiled spring, it stores accumulated knowledge and logic that can be released at any time to create kinetic energy—the actual execution of the program. This transformation from potential to kinetic allows code to manipulate reality, creating tangible results from abstract ideas repeatedly and reliably. In this sense, code is arguably the closest thing to a perpetual motion machine in the technological world.
