@@ -1,3 +1,17 @@
+---
+author: Nutchanon Ninyawee (N2)
+date: 2025-12-07
+status: draft
+clarity: low
+notes: |
+  This concept is still theoretical. Key open questions:
+  - How do we bootstrap adoption in a world dominated by one-sided pricing?
+  - What technical infrastructure is needed for gratitude tracking?
+  - How do we prevent the system from being gamed at scale?
+  - How do we transition existing businesses to this model?
+  - What legal/regulatory frameworks would support or hinder this?
+---
+
 # ทุนนิยกตัญญูตา: Gratitude Capitalism
 
 *A two-sided conversation about value that transforms extractive pricing into reciprocal exchange*
