@@ -63,6 +63,9 @@ This is our contribution to the global conversation about economic justice and h
   - [The Role of Spiritual Development](#the-role-of-spiritual-development)
   - [Transparency in Practice](#transparency-in-practice)
   - [Evolution and Adaptation](#evolution-and-adaptation)
+- [Foundations](#foundations)
+  - [Data Dignity](Foundations/data-dignity.md)
+  - [ทุนนิยกตัญญูตา: Gratitude Capitalism](Foundations/gratitude-capitalism.md) *(draft)*
 - [Resources & References](#resources--references)
 
 ## Guild Members
@@ -358,6 +361,15 @@ The governance model itself is subject to democratic evolution. Members can prop
 - Governance structure itself
 
 This ensures the system remains responsive to member needs and changing circumstances while maintaining core principles.
+
+## Foundations
+
+Foundations are deep-dive documents exploring specific concepts that underpin SAA-Coop's philosophy and operations. Each foundation represents an area of ongoing research and experimentation.
+
+| Foundation | Status | Description |
+|------------|--------|-------------|
+| [Data Dignity](Foundations/data-dignity.md) | Draft | User-controlled data verification and privacy-preserving personalization |
+| [ทุนนิยกตัญญูตา: Gratitude Capitalism](Foundations/gratitude-capitalism.md) | Draft | Two-sided conversational pricing as an alternative to extractive capitalism |
 
 ## Resources & References
 
