@@ -21,7 +21,7 @@ The term "Sequential" is deliberately chosen to transcend the boundaries of mere
 - Code: The executable instructions and algorithms
 - Human Behaviors: The patterns and practices of users and developers
 
-This is a part of the https://github.com/wasdee/SAA-Coop
+This is a part of the https://github.com/SAA-Coop/whitepaper
 
 ---
 
@@ -48,4 +48,4 @@ SAA: Sequential Accumulation Artisan คืออะไร? ช่างสะ�
 - โค้ด: คำสั่งและอัลกอริทึมที่ปฏิบัติการได้
 - พฤติกรรมของมนุษย์: รูปแบบและแนวปฏิบัติของผู้ใช้และนักพัฒนา
 
-นี่คือส่วนหนึ่งของ https://github.com/wasdee/SAA-Coop
+นี่คือส่วนหนึ่งของ https://github.com/SAA-Coop/whitepaper
