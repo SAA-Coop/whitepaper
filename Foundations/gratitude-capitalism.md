@@ -410,7 +410,7 @@ Will you join the conversation?
 
 *ทุนนิยกตัญญูตา emerges from SAA-Coop's vision of economics that serves humanity. It combines Buddhist principles of กตัญญูตา (gratitude) with cooperative economics and radical transparency. We believe that when pricing becomes conversation, when profit requires acknowledgment, and when communities govern their own resources, we create economics worthy of human dignity.*
 
-*Learn more at [SAA-Coop](https://github.com/nutchanon-ninyawee/SAA-Coop-Whitepaper)*
+*Learn more at [SAA-Coop](https://github.com/SAA-Coop/whitepaper)*
 
 **Reference**:
 - [Video: The Problem with Extractive Capitalism](https://www.youtube.com/watch?v=ZxZO0jd8VoU)

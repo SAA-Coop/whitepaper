@@ -216,4 +216,4 @@ Will you help build it?
 
 *Data dignity platforms are being built by communities worldwide who believe our digital lives deserve respect. From cryptographers to activists, developers to doctors, we’re united by a simple belief: technology should enhance human dignity, not diminish it.*
 
-*Join us at [thana.kunben.co](#) to help build the future of dignified digital existence.*
+*Join us at [thana.rosaniyom.com](https://thana.rosaniyom.com) to help build the future of dignified digital existence.*
